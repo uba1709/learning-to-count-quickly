@@ -1,0 +1,3 @@
+﻿  NaukaSzybkiegoLiczenia.cpp
+C:\Users\jakub\source\repos\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia.cpp(112,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  NaukaSzybkiegoLiczenia.vcxproj -> C:\Users\jakub\source\repos\NaukaSzybkiegoLiczenia\x64\Debug\NaukaSzybkiegoLiczenia.exe
