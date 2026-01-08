@@ -1,3 +1,5 @@
 ﻿  NaukaSzybkiegoLiczenia.cpp
-C:\Users\jakub\source\repos\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia.cpp(112,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-  NaukaSzybkiegoLiczenia.vcxproj -> C:\Users\jakub\source\repos\NaukaSzybkiegoLiczenia\x64\Debug\NaukaSzybkiegoLiczenia.exe
+C:\Users\jakub\source\repos\learning-to-count-quickly\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia.cpp(85,25): warning C4834: odrzucenie wartości zwracanej funkcji z atrybutem [[nodiscard]]
+C:\Users\jakub\source\repos\learning-to-count-quickly\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia.cpp(115,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\jakub\source\repos\learning-to-count-quickly\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia\NaukaSzybkiegoLiczenia.cpp(42,1): warning C4715: "wybierzOperacje”: niewszystkie ścieżki kodu zwracają wartość
+  NaukaSzybkiegoLiczenia.vcxproj -> C:\Users\jakub\source\repos\learning-to-count-quickly\NaukaSzybkiegoLiczenia\x64\Debug\NaukaSzybkiegoLiczenia.exe

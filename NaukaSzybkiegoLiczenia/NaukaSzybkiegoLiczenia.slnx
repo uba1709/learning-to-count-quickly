@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="NaukaSzybkiegoLiczenia/NaukaSzybkiegoLiczenia.vcxproj" />
+  <Project Path="NaukaSzybkiegoLiczenia/NaukaSzybkiegoLiczenia.vcxproj" Id="ef53d350-1c8e-47e3-988a-61cdbf23178c" />
 </Solution>
